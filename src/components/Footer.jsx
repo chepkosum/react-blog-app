@@ -6,7 +6,7 @@ const Footer = () => {
     <footer>
       <ul className='footer__categories'>
         <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
-        <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
+        <li><Link to="/posts/categories/agriculture">Education</Link></li>
         <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
         <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
         <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
