@@ -11,7 +11,7 @@ const Footer = () => {
         <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
         <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
         <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
-        <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
+        <li><Link to="/posts/categories/agriculture">Technology</Link></li>
       </ul>
       <div className="footer__copyright">
         <p>All Rights Reserved &copy; Copyright Edwin Eisenhower</p>
