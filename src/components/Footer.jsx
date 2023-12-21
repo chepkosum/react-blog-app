@@ -10,7 +10,7 @@ const Footer = () => {
         <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
         <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
         <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
-        <li><Link to="/posts/categories/agriculture">Agriculture</Link></li>
+        <li><Link to="/posts/categories/agriculture">Arts</Link></li>
         <li><Link to="/posts/categories/agriculture">Technology</Link></li>
       </ul>
       <div className="footer__copyright">
