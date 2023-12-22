@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-blog-app/static/css/main.863689ad.css",
+    "main.js": "/react-blog-app/static/js/main.0e2d66fc.js",
+    "static/media/blog8.jpg": "/react-blog-app/static/media/blog8.868dae768280c2713ab1.jpg",
+    "static/media/blog2.jpg": "/react-blog-app/static/media/blog2.60fbecdd00415b5ecbfe.jpg",
+    "static/media/blog11.jpg": "/react-blog-app/static/media/blog11.93c22b048aca8a4e1491.jpg",
+    "static/media/blog9.jpg": "/react-blog-app/static/media/blog9.bffd96c776bc5914a111.jpg",
+    "static/media/blog1.jpg": "/react-blog-app/static/media/blog1.7a2f12df7485b65d348f.jpg",
+    "static/media/blog7.jpg": "/react-blog-app/static/media/blog7.6f51ae87c94caa04ee8f.jpg",
+    "static/media/blog10.jpg": "/react-blog-app/static/media/blog10.c548975541c100835ad6.jpg",
+    "static/media/blog12.jpg": "/react-blog-app/static/media/blog12.ec56eaf1d7caa3f9e2a7.jpg",
+    "static/media/blog13.jpg": "/react-blog-app/static/media/blog13.a8aea41bf9ffa2c5437c.jpg",
+    "static/media/blog38.jpg": "/react-blog-app/static/media/blog38.b9d020d5311cc29b061c.jpg",
+    "static/media/webimg.jpeg": "/react-blog-app/static/media/webimg.de5cec85f16864ef027b.jpeg",
+    "index.html": "/react-blog-app/index.html",
+    "main.863689ad.css.map": "/react-blog-app/static/css/main.863689ad.css.map",
+    "main.0e2d66fc.js.map": "/react-blog-app/static/js/main.0e2d66fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863689ad.css",
+    "static/js/main.0e2d66fc.js"
+  ]
+}
